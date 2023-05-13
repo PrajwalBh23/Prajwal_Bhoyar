@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prajwal Bhoyar</h1>
+<h1 align="center">Hi 👋, I am Prajwal Bhoyar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <img src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" alt="">
